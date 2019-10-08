@@ -1,0 +1,41 @@
+Original label:Bodoni MT, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:BookAntiqua, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:Castellar, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:DulcimerJF, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:arial, Prediction-1 :arial, confidence : 100.00% Prediction-2 :DancingScript, confidence : 0.00% Prediction-3 :PatuaOne, confidence : 0.00% 
+
+ Original label:arial, Prediction-1 :arial, confidence : 100.00% Prediction-2 :DancingScript, confidence : 0.00% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ Original label:mssansserif, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:opensans, Prediction-1 :Arimo-Regular, confidence : 95.20% Prediction-2 :NotoSans, confidence : 2.55% Prediction-3 :Roboto, confidence : 1.78% 
+
+ Original label:opensans, Prediction-1 :OpenSans, confidence : 99.97% Prediction-2 :NotoSans, confidence : 0.03% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ Original label:times, Prediction-1 :OpenSans, confidence : 100.00% Prediction-2 :NotoSans, confidence : 0.00% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ Original label:Bodoni MT, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:BookAntiqua, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:Castellar, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:DulcimerJF, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:arial, Prediction-1 :OpenSans, confidence : 100.00% Prediction-2 :DancingScript, confidence : 0.00% Prediction-3 :PatuaOne, confidence : 0.00% 
+
+ Original label:arial, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :DancingScript, confidence : 0.00% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ Original label:mssansserif, Prediction-1 :PatuaOne, confidence : 100.00% Prediction-2 :Arimo-Regular, confidence : 0.00% Prediction-3 :DancingScript, confidence : 0.00% 
+
+ Original label:opensans, Prediction-1 :Arimo-Regular, confidence : 95.20% Prediction-2 :NotoSans, confidence : 2.55% Prediction-3 :Roboto, confidence : 1.78% 
+
+ Original label:opensans, Prediction-1 :OpenSans, confidence : 99.97% Prediction-2 :NotoSans, confidence : 0.03% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ Original label:times, Prediction-1 :OpenSans, confidence : 100.00% Prediction-2 :NotoSans, confidence : 0.00% Prediction-3 :Arimo-Regular, confidence : 0.00% 
+
+ 
